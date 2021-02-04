@@ -1,0 +1,1 @@
+InsertNodeAtBegining.o: ../InsertNodeAtBegining.cpp

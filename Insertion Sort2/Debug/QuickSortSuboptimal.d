@@ -1,0 +1,1 @@
+QuickSortSuboptimal.o: ../QuickSortSuboptimal.cpp

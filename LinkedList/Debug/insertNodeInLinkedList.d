@@ -1,0 +1,1 @@
+insertNodeInLinkedList.o: ../insertNodeInLinkedList.cpp

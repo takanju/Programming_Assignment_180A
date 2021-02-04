@@ -1,0 +1,1 @@
+MemberOf.o: ../MemberOf.cpp

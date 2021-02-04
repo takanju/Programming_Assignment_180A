@@ -1,0 +1,1 @@
+permutation.o: ../permutation.cpp
